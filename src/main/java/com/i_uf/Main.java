@@ -18,7 +18,7 @@ public class Main {
             try {
                 String hash = entry.getValue().getAsJsonObject().get("hash").getAsString();
                 File in = new File(directory, hash.substring(0, 2) + "/" + hash);
-                File out = new File(output + "/" + entry.getKey());
+                File out = new File(output, entry.getKey());
                 out.getParentFile().mkdirs();
                 out.createNewFile();
                 Files.copy(in.toPath(), new FileOutputStream(out));
