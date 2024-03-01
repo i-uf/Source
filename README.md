@@ -4,7 +4,7 @@
 ![image](https://github.com/uf-developer/Source/assets/117362735/ac4a8d6f-f14d-47aa-ad54-9e419aff2356)
 #### 대충 깃헙 페이지의 오른쪽에있는 File을 클릭하고 jar나 exe중 아무거나 다운로드 한다
 
-#### 명령 프롬프트를 다운로드한 jar 파일이 있는 위치에서 실행시킨 다음 이 명령어를 입력
+#### 명령 프롬프트를 다운로드한 jar 파일이 있는 위치에서 실행시킨 다음 이 명령어를 입력 ( 자바를 다운받아야함! )
 ```
 java -jar <파일 이름>.jar
 ```
@@ -22,4 +22,4 @@ java -jar <파일 이름>.jar
 ![image](https://github.com/uf-developer/Source/assets/117362735/34303cf9-9f4e-49c3-87a0-19a74b562292)
 #### 실행이 완료되면 정상적으로 폴더가 있을것이다
 ![image](https://github.com/uf-developer/Source/assets/117362735/567dbcc2-0b12-41da-bf8e-a74506b59fae)
-#### 이 폴더안에 모든 에셋이 있다. 모든 언어, 모든 소리, 프로그래머 아트 리소스팩같은거도 있으니 한번 둘러보면 좋음
+#### 이 폴더안에 모든 에셋이 있다. 모든 언어, 모든 소리, 프로그래머 아트 리소스팩같은거도 있으니 한번 둘러보는것도 재밌을듯
